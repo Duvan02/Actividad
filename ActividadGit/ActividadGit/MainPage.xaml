@@ -16,6 +16,9 @@
             Clicked="Estadistica"/>
 
 
+        <Button Text="Estadisticas Cristiano"
+            Clicked="Estadistica1"/>
+
     </VerticalStackLayout>
 
 </ContentPage>

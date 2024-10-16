@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\",
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\duvan suarez\\documents\\actividadgit\\actividadgit\\actividadgit\\messi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\messi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\duvan suarez\\documents\\actividadgit\\actividadgit\\actividadgit\\messi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\messi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\duvan suarez\\documents\\actividadgit\\actividadgit\\actividadgit\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\duvan suarez\\documents\\actividadgit\\actividadgit\\actividadgit\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\duvan suarez\\documents\\actividadgit\\actividadgit\\actividadgit\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\cristiano.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\cristiano.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\cristiano.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\cristiano.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\messi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\messi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\messi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\messi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\duvan suarez\\documents\\actividadgit\\actividadgit\\actividadgit\\actividadgit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|c:\\users\\lenovo\\onedrive\\documentos\\actividad\\actividadgit\\actividadgit\\actividadgit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6EED3695-0196-48FD-8F53-975CF589A49D}|ActividadGit\\ActividadGit.csproj|solutionrelative:actividadgit\\actividadgit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -34,56 +42,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "messi.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\messi.xaml.cs",
-              "RelativeDocumentMoniker": "ActividadGit\\messi.xaml.cs",
-              "ToolTip": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\messi.xaml.cs",
-              "RelativeToolTip": "ActividadGit\\messi.xaml.cs",
+              "DocumentIndex": 3,
+              "Title": "cristiano.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\cristiano.xaml.cs",
+              "RelativeDocumentMoniker": "ActividadGit\\cristiano.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\cristiano.xaml.cs",
+              "RelativeToolTip": "ActividadGit\\cristiano.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:06:27.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cristiano.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\cristiano.xaml",
+              "RelativeDocumentMoniker": "ActividadGit\\cristiano.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\cristiano.xaml",
+              "RelativeToolTip": "ActividadGit\\cristiano.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T13:06:22.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "messi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\messi.xaml.cs",
+              "RelativeDocumentMoniker": "ActividadGit\\messi.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\messi.xaml.cs",
+              "RelativeToolTip": "ActividadGit\\messi.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T00:43:28.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "messi.xaml",
-              "DocumentMoniker": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\messi.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\messi.xaml",
               "RelativeDocumentMoniker": "ActividadGit\\messi.xaml",
-              "ToolTip": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\messi.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\messi.xaml",
               "RelativeToolTip": "ActividadGit\\messi.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-16T00:35:21.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ActividadGit",
-              "DocumentMoniker": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
+              "DocumentIndex": 7,
+              "Title": "ActividadGit.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
               "RelativeDocumentMoniker": "ActividadGit\\ActividadGit.csproj",
-              "ToolTip": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
               "RelativeToolTip": "ActividadGit\\ActividadGit.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T00:34:59.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T00:34:59.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\MainPage.xaml",
               "RelativeDocumentMoniker": "ActividadGit\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\MainPage.xaml",
               "RelativeToolTip": "ActividadGit\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-16T00:31:28.778Z",
               "EditorCaption": ""
@@ -92,27 +137,26 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "ActividadGit\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\MainPage.xaml.cs",
               "RelativeToolTip": "ActividadGit\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T00:31:15.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\App.xaml.cs",
               "RelativeDocumentMoniker": "ActividadGit\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\App.xaml.cs",
               "RelativeToolTip": "ActividadGit\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T00:29:21.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T00:29:21.205Z"
             }
           ]
         }

@@ -4,9 +4,16 @@
              x:Class="ActividadGit.cristiano"
              Title="cristiano">
     <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+        <Label Text="Campeonatos nacionales"
+       VerticalOptions="Center" 
+       HorizontalOptions="Center" />
+
+        <Image Source="estacristiano"
+       Margin="10,20"/>
+
+        <Button Text="Atras"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"
+        Clicked="atras1"/>
     </VerticalStackLayout>
 </ContentPage>

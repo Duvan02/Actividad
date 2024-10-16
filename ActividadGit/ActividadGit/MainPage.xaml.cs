@@ -14,6 +14,12 @@
 
         }
 
+        private async void Estadistica1(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new cristiano());
+
+        }
+
     }
 
 }
