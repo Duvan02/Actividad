@@ -32919,24 +32919,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Duvan Suarez\\.nuget\\packages\\": {},
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
       "projectName": "ActividadGit",
-      "projectPath": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
-      "packagesPath": "C:\\Users\\Duvan Suarez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duvan Suarez\\Documents\\ActividadGit\\ActividadGit\\ActividadGit\\obj\\",
+      "projectPath": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\ActividadGit.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenovo\\OneDrive\\Documentos\\Actividad\\ActividadGit\\ActividadGit\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Duvan Suarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
